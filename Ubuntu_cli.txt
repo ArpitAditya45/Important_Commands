@@ -1,0 +1,5 @@
+sudo netstat -lpn |grep :<Port No> --->to know what is happening at port no
+kill -9 port ->kills the process id on the port no
+tar -xzf archive.tar.gz
+sudo dpkg -i filename.deb->Install a deb file.
+

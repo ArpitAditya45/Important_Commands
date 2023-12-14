@@ -1,0 +1,6 @@
+git reset --soft HEAD~1 Removes the last commit from the system due to some error if the main branch is ahead from the local system , bhai agar pichla commit commint na hua to ye run kardena dono same jagah aa jayenge.
+
+2.git checkout -b username ->used to check the pull request by changing the branch
+3.git checkout main ->go back to main branch
+4.git reset --hard ->revert the commit changes in pull req.
+
